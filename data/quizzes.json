@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "quizzes": [
+    {
+      "id": "otherworld-talent",
+      "file": "data/otherworld-talent.json",
+      "title": "测测你在异世界的天赋",
+      "subtitle": "10 道题，觉醒你的隐藏属性",
+      "emoji": "🔮",
+      "hot": true
+    }
+  ]
+}

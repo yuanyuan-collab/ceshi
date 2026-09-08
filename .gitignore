@@ -1,0 +1,8 @@
+# 工作记忆与本地辅助目录（不部署）
+.workbuddy/
+
+# macOS
+.DS_Store
+
+# 依赖
+node_modules/
